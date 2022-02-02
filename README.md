@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **any innovative project**
 
-- 💬 Ask me candidly about **my history, finance, lean management, gardening or pottery**
+- 💬 Ask me candidly about **my history, finance, lean management, cooking particulary indian food, gardening or pottery**
 
 - 📫 How to reach me **hoperam75@gmail.com**
 
