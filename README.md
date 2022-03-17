@@ -12,7 +12,8 @@
 📫 **hoperam75@gmail.com**
 <p align="left">
 </p>
-## GENERAL PLAN
+
+# GENERAL PLAN
 
 * Atom, Sublime 3 or some other better-than-plain-text editor. Atom: https://atom.io/
 * iTerm 2 - A vastly superior terminal for MacOS: https://www.iterm2.com/
